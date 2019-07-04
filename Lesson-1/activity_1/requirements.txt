@@ -36,7 +36,7 @@ lesscpy==0.13.0
 lxml==4.1.1
 Markdown==2.6.10
 MarkupSafe==1.0
-matplotlib==2.1.0
+matplotlib==2.2.4
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
